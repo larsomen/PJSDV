@@ -21,6 +21,7 @@ using namespace std;
  */
 int main(int argc, char** argv) {
     printf("test");
+    printf("hallo makefile");
     return 0;
 }
 
