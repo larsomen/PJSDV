@@ -6,7 +6,7 @@
 
 /* 
  * File:   main.cpp
- * Author: vrosty
+ * Author: Projectgroup C2
  *
  * Created on 13 november 2017, 13:03
  */
